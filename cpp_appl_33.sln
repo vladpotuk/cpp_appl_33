@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_appl_33", "cpp_appl_33\cpp_appl_33.vcxproj", "{A8B3FAB0-5930-421F-9A4B-764C149677FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B3FAB0-5930-421F-9A4B-764C149677FE}.Debug|x64.ActiveCfg = Debug|x64
+		{A8B3FAB0-5930-421F-9A4B-764C149677FE}.Debug|x64.Build.0 = Debug|x64
+		{A8B3FAB0-5930-421F-9A4B-764C149677FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8B3FAB0-5930-421F-9A4B-764C149677FE}.Debug|x86.Build.0 = Debug|Win32
+		{A8B3FAB0-5930-421F-9A4B-764C149677FE}.Release|x64.ActiveCfg = Release|x64
+		{A8B3FAB0-5930-421F-9A4B-764C149677FE}.Release|x64.Build.0 = Release|x64
+		{A8B3FAB0-5930-421F-9A4B-764C149677FE}.Release|x86.ActiveCfg = Release|Win32
+		{A8B3FAB0-5930-421F-9A4B-764C149677FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B69DA7A3-ACA8-444C-95C8-C1CDBA69F595}
+	EndGlobalSection
+EndGlobal
